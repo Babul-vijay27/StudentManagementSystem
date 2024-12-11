@@ -17,7 +17,7 @@ public class StudentManagementSystem extends JFrame implements ActionListener {
     // Database Properties
     private static final String DB_URL = "jdbc:mysql://localhost:3306/student_management";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Mysql@02";
+    private static final String DB_PASSWORD = "password";
     private Connection connection;
 
     public StudentManagementSystem() {
